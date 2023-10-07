@@ -14,3 +14,6 @@ st.markdown("""
     """)
 
 st.write("abhigyan","datta","python")
+d={'name' : 'abhigyan',
+   'profession': 'Data Scientist'}
+st.write(d)
